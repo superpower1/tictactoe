@@ -29,10 +29,10 @@ li, a {
     outline: 0;
     display: none;
 }
-li {
+#menu li {
     width: 100vw;
     text-indent: 56px;}
-a:focus {
+#menu a:focus {
     display: block;
     color: #333;
     background-color: #eee;
